@@ -45,7 +45,7 @@ The goal is to transform raw supermarket data into meaningful visual insights us
 ---
 
 ## 📸 Dashboard Preview
-![Dashboard Screenshot](dashboard.png)
+![Dashboard Screenshot]([dashboard.png](https://github.com/Abre1234/Sales_Analysis_Using_Power_BI/blob/main/BI_Sales_Assighment/sales%20dashboard.png))
 
 ---
 
