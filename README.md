@@ -46,7 +46,7 @@ The goal is to transform raw supermarket data into meaningful visual insights us
 
 ## 📸 Dashboard Preview
 ## 📸 Dashboard Preview
-![Dashboard Screenshot](BI_Sales_Assighment/sales dashboard.png)
+![Dashboard Screenshot](BI_Sales_Assighment/sales_dashboard.png)
 ---
 
 ## 📈 Key Insights
